@@ -5,9 +5,9 @@ Bem-vindo(a) à **Opaleiros**, a organização que une **ambição**, **código*
 Somos três mentes brilhantes (ou pelo menos esforçadas) de uma faculdade qualquer, tentando transformar cafeína em software.  
 O trio principal é formado por:
 
-- 👨‍💻 **Gustavo** – O cara das ideias mirabolantes que (quase) sempre funcionam.
-- 🧠 **Matheus** – O cérebro técnico que dorme com documentação.
-- 💥 **Mariah** – A dev que resolve PROBLEMAS no grito (ou com classe, depende do dia).
+- 👨‍💻 **Matheus** – O cara das ideias mirabolantes que (quase) sempre funcionam.
+- 🧠 **Gustavos** – O cérebro técnico que dorme com documentação.
+- 💥 **Mariah** – A dev que resolve problemas no grito (ou com classe, depende do dia).
 
 ---
 
